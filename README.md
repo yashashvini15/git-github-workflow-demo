@@ -34,8 +34,9 @@ Build a repository showcasing:
 - **Tags**: Created an annotated tag (`v1.0`) to mark a release point in history.
 
 ## Tech / Tools Used
-- Git
-- GitHub (Pull Requests, branch management)
+- Git (Version Control)
+- Git Bash (Command Line Interface)
+- GitHub (Remote Repository, Pull Requests, Branch Management)
 
 ## Author
 [yashashvini15](https://github.com/yashashvini15)
